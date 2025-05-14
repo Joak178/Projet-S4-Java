@@ -1,5 +1,5 @@
 # Projet-S4-Java
-###################################         A LIRE AVANT TOUTE INSTALLATION           ######################################
+############################A LIRE AVANT TOUTE INSTALLATION###############################
 
 Il est possible de rencontrer une erreur lorsqu'on cherche a exécuter les .jar sur son PC. Elle est due à une version obsolète du JDK (inférieure à 21).
 Pour résoudre ce problème, il faut installer la version la plus récente de Java pour les développeurs :
@@ -43,7 +43,7 @@ Ouvrez une invite de commande et tapez : 'java -version' ou 'javac -version'
 Vous devez voir s’afficher la version installée du JDK.
 
 
-###########################################################################################################
+##########################################################
 
 
 
